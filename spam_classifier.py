@@ -1,5 +1,6 @@
 # Import Pandas library
 import pandas as pd
+import tensorflow as tf
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import MultinomialNB
